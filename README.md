@@ -1,3 +1,3 @@
 # My Project
 
-1.7
+Version: 1.2.0
